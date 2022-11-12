@@ -15,6 +15,24 @@ body {
   margin: 0;
   font-family: 'Lato', sans-serif;
   line-height: 28px;
+  background-color: #333;
+  color: #FFF;
+}
+body .intro {
+  background-color: #8841da;
+}
+body .articulo--principal h2 {
+  color: #8841da;
+}
+body .caja__contenido {
+  background-color: #8841da;
+  color: rgba(255, 255, 255, 0.7);
+}
+body .caja__contenido span {
+  color: rgba(255, 255, 255, 0.7);
+}
+body .caja__contenido a {
+  color: rgba(255, 255, 255, 0.7);
 }
 h1,
 h2,
