@@ -1,2 +1,2 @@
 # Platzigames
-Este proyecto es un ejercicio el cual desarolle con el preprocesador Less
+Esta pagina Web es un artirculo de blog el cual narra como sera CyberPunk en su lanzamiento, esta hecho con Less
